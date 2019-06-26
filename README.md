@@ -46,6 +46,7 @@ d.Step Four: On the next screen, scroll down to where you see your client id and
 ##The image is Below:
 
 ![Screenshot (21)](https://user-images.githubusercontent.com/50224446/60143893-08c43900-9786-11e9-882f-cde72aa35517.png)
+![Screenshot (22)](https://user-images.githubusercontent.com/50224446/60144203-28a82c80-9787-11e9-970a-628512302057.png)
 
 4. node liri.js do-what-it-says
 
