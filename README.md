@@ -34,8 +34,6 @@ Fs: - a built in node package
 
 *Date of the Event (use moment to format this as "MM/DD/YYYY")
 
-![Screenshot (25)](https://user-images.githubusercontent.com/50224446/60144460-0531b180-9788-11e9-90f0-e4e87cb29db8.png)
-
 ![Screenshot (23)](https://user-images.githubusercontent.com/50224446/60144464-09f66580-9788-11e9-83d1-dcb6b6025c10.png)
 ![Screenshot (26)](https://user-images.githubusercontent.com/50224446/60144468-111d7380-9788-11e9-8afe-1f9cdf025f15.png)
 
