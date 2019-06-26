@@ -15,6 +15,8 @@ https://github.com/nikitamehata23/liri-node-apps
 
 *Date of the Event (use moment to format this as "MM/DD/YYYY")
 
+![Screenshot (31)](https://user-images.githubusercontent.com/50224446/60144307-7755c680-9787-11e9-91f6-e2592e239117.png)
+
 2. node liri.js spotify-this-song ''
 This will show the following information about the song in your terminal/bash window
 #Artist(s)
