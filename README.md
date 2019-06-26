@@ -5,6 +5,25 @@ https://github.com/nikitamehata23/liri-node-apps
 #About this Project
 -This project is a command line node app that takes in parameters and returns data. The project involved developing an iPhone-like Interface, named LIRI, and akin to iPhone's Siri. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface. The app involved use of multiple APIs (Bands in Town, Spotify, and OMDb), along wiith installing and using several NPM (node package manager) packages.
 
+##Before you get started, make sure you have these node packages installed:
+
+Dotenv: Dotenv is a zero-dependency module that loads environment variables from a .env file into process.env. Storing configuration in the environment separate from code is based on The Twelve-Factor App methodology.
+
+Command Line: 'npm install dotenv'
+
+Request: - Request is designed to be the simplest way possible to make http calls. It supports HTTPS and follows redirects by default.
+
+Command Line: 'npm install request'
+
+Moment: - A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates.
+
+Command Line: 'npm install moment'
+
+Fs: - a built in node package
+
+(npm i request)
+
+*************************************************************************************************************************************
 #What Each Command Does
 1. node liri.js concert-this <artist/band name here>
 -This will search the Bands in Town Artist Events API ("https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp") for an artist and render the following information about each event to the terminal:
@@ -22,7 +41,7 @@ https://github.com/nikitamehata23/liri-node-apps
 
 ![Screenshot (30)](https://user-images.githubusercontent.com/50224446/60144377-bf74e900-9787-11e9-983f-e9702ebe7dd6.png)
 ![Screenshot (31)](https://user-images.githubusercontent.com/50224446/60144307-7755c680-9787-11e9-91f6-e2592e239117.png)
-
+***********************************************************************************************************************************
 2. node liri.js spotify-this-song ''
 This will show the following information about the song in your terminal/bash window
 #Artist(s)
