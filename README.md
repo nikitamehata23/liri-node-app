@@ -43,6 +43,10 @@ d.Step Four: On the next screen, scroll down to where you see your client id and
 
 -If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.' You'll use the axios package to retrieve data from the OMDB API. Like all of the in-class activities, the OMDB API requires an API key.
 
+##The image is Below:
+
+![Screenshot (21)](https://user-images.githubusercontent.com/50224446/60143893-08c43900-9786-11e9-882f-cde72aa35517.png)
+
 4. node liri.js do-what-it-says
 
 Using the fs Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands. It should run spotify-this-song for "I Want it That Way," as follows the text in random.txt. Edit the text in random.txt to test out the feature for movie-this and concert-this.
