@@ -37,8 +37,6 @@ Fs: - a built in node package
 ![Screenshot (23)](https://user-images.githubusercontent.com/50224446/60144464-09f66580-9788-11e9-83d1-dcb6b6025c10.png)
 ![Screenshot (26)](https://user-images.githubusercontent.com/50224446/60144468-111d7380-9788-11e9-8afe-1f9cdf025f15.png)
 
-![Screenshot (30)](https://user-images.githubusercontent.com/50224446/60144377-bf74e900-9787-11e9-983f-e9702ebe7dd6.png)
-
 ***********************************************************************************************************************************
 2. node liri.js spotify-this-song ''
 This will show the following information about the song in your terminal/bash window
