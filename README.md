@@ -83,3 +83,12 @@ d.Step Four: On the next screen, scroll down to where you see your client id and
 4. node liri.js do-what-it-says
 
 Using the fs Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands. It should run spotify-this-song for "I Want it That Way," as follows the text in random.txt. Edit the text in random.txt to test out the feature for movie-this and concert-this.
+
+
+##Technologies Used
+Node-Spotify-API
+Axios
+OMDB API
+Bands In Town API
+Moment
+DotEnv
