@@ -40,7 +40,7 @@ Fs: - a built in node package
 ![Screenshot (26)](https://user-images.githubusercontent.com/50224446/60144468-111d7380-9788-11e9-8afe-1f9cdf025f15.png)
 
 ![Screenshot (30)](https://user-images.githubusercontent.com/50224446/60144377-bf74e900-9787-11e9-983f-e9702ebe7dd6.png)
-![Screenshot (31)](https://user-images.githubusercontent.com/50224446/60144307-7755c680-9787-11e9-91f6-e2592e239117.png)
+
 ***********************************************************************************************************************************
 2. node liri.js spotify-this-song ''
 This will show the following information about the song in your terminal/bash window
@@ -64,6 +64,10 @@ c.Step Three: Once logged in, navigate to https://developer.spotify.com/my-appli
 
 d.Step Four: On the next screen, scroll down to where you see your client id and client secret. Copy these values down somewhere, you'll need them to use the Spotify API and the node-spotify-api package.
 
+![Screenshot (19)](https://user-images.githubusercontent.com/50224446/60144731-2d6de000-9789-11e9-8d94-3f1883b6ec90.png)
+![Screenshot (18)](https://user-images.githubusercontent.com/50224446/60144737-2f37a380-9789-11e9-81ed-5ab0cf1fcb9f.png)
+
+***********************************************************************************************************************************
 3. node liri.js movie-this ''
 -This will output the following information to your terminal/bash window: * Title of the movie. * Year the movie came out. * IMDB Rating of the movie. * Rotten Tomatoes Rating of the movie. * Country where the movie was produced.
 
