@@ -7,25 +7,25 @@ https://github.com/nikitamehata23/liri-node-apps
 
 ## Before you get started, make sure you have these node packages installed:
 
-  # Dotenv: Dotenv is a zero-dependency module that loads environment variables from a .env file into process.env. Storing configuration in the environment separate from code is based on The Twelve-Factor App methodology.
+  ## Dotenv: Dotenv is a zero-dependency module that loads environment variables from a .env file into process.env. Storing configuration in the environment separate from code is based on The Twelve-Factor App methodology.
 
- # Command Line: 'npm install dotenv'
+ ## Command Line: 'npm install dotenv'
 
- # Request: - Request is designed to be the simplest way possible to make http calls. It supports HTTPS and follows redirects by default.
+ ## Request: - Request is designed to be the simplest way possible to make http calls. It supports HTTPS and follows redirects by default.
 
- # Command Line: 'npm install request'
+ ## Command Line: 'npm install request'
 
- # Moment: - A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates.
+ ## Moment: - A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates.
 
- # Command Line: 'npm install moment'
+ ## Command Line: 'npm install moment'
 
- # Fs: - a built in node package
+ ## Fs: - a built in node package
 
- # (npm i request)
+ ## (npm i request)
 
 *************************************************************************************************************************************
 # What Each Command Does
-1. node liri.js concert-this <artist/band name here>
+# 1. node liri.js concert-this <artist/band name here>
 -This will search the Bands in Town Artist Events API ("https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp") for an artist and render the following information about each event to the terminal:
 
 *Name of the venue
@@ -38,7 +38,7 @@ https://github.com/nikitamehata23/liri-node-apps
 ![Screenshot (26)](https://user-images.githubusercontent.com/50224446/60144468-111d7380-9788-11e9-8afe-1f9cdf025f15.png)
 
 ***********************************************************************************************************************************
-2. node liri.js spotify-this-song ''
+# 2. node liri.js spotify-this-song ''
 This will show the following information about the song in your terminal/bash window
 # Artist(s)
 # The song's name
@@ -64,7 +64,7 @@ d. Step Four: On the next screen, scroll down to where you see your client id an
 ![Screenshot (18)](https://user-images.githubusercontent.com/50224446/60144737-2f37a380-9789-11e9-81ed-5ab0cf1fcb9f.png)
 
 ***********************************************************************************************************************************
-3. node liri.js movie-this ''
+# 3. node liri.js movie-this ''
 -This will output the following information to your terminal/bash window: * Title of the movie. * Year the movie came out. * IMDB Rating of the movie. * Rotten Tomatoes Rating of the movie. * Country where the movie was produced.
 
 # Language of the movie. * Plot of the movie. * Actors in the movie.
@@ -76,7 +76,7 @@ d. Step Four: On the next screen, scroll down to where you see your client id an
 ![Screenshot (21)](https://user-images.githubusercontent.com/50224446/60143893-08c43900-9786-11e9-882f-cde72aa35517.png)
 ![Screenshot (22)](https://user-images.githubusercontent.com/50224446/60144203-28a82c80-9787-11e9-970a-628512302057.png)
 
-4. node liri.js do-what-it-says
+# 4. node liri.js do-what-it-says
 
 Using the fs Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands. It should run spotify-this-song for "I Want it That Way," as follows the text in random.txt. Edit the text in random.txt to test out the feature for movie-this and concert-this.
 ![Screenshot (33)](https://user-images.githubusercontent.com/50224446/60145590-24324280-978c-11e9-826a-db94f93c81d2.png)
