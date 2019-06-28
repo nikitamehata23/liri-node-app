@@ -1,6 +1,6 @@
 # liri-node-app
 
-https://github.com/nikitamehata23/liri-node-apps
+(https://github.com/nikitamehata23/liri-node-apps)
 
 # About this Project
 - This project is a command line node app that takes in parameters and returns data. The project involved developing an iPhone-like Interface, named LIRI, and akin to iPhone's Siri. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface. The app involved use of multiple APIs (Bands in Town, Spotify, and OMDb), along wiith installing and using several NPM (node package manager) packages.
