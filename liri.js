@@ -1,5 +1,5 @@
 
-// Already Done: npm installs (all listed below) 
+// Already Done: npm installed (all listed below) 
 
 // Require and configure dotenv.  Read and set environment variables.  The Dotenv module/package loads environment variables from an .env file into process.env (code to read and set any environment variables with the dotenv package). 
 

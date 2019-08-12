@@ -26,16 +26,16 @@ This will show the following information about the song in your terminal/bash wi
 
 You can follow these steps in order to generate a client id and client secret:
 
-a.Step One: Visit https://developer.spotify.com/my-applications/#!/
+a.Step One: Visit (https://developer.spotify.com/my-applications/#!/)
 
 b.Step Two: Either login to your existing Spotify account or create a new one (a free account is fine) and log in.
-
+ 
 c.Step Three: Once logged in, navigate to https://developer.spotify.com/my-applications/#!/applications/create to register a new application to be used with the Spotify API. You can fill in whatever you'd like for these fields.
-
+       
  When finished, click the "complete" button.
-
+    
 d.Step Four: On the next screen, scroll down to where you see your client id and client secret. Copy these values down somewhere, you'll need them to use the Spotify API and the node-spotify-api package.
-
+   
 3. node liri.js movie-this ''
 -This will output the following information to your terminal/bash window: * Title of the movie. * Year the movie came out. * IMDB Rating of the movie. * Rotten Tomatoes Rating of the movie. * Country where the movie was produced.
 
