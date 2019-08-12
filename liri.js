@@ -100,7 +100,7 @@ function searchBandsInTown(artist) {
 
     // Query request with axios to the Bands in Town API for the requested performer
 
-    var queryURLBands = "https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp";
+    // var queryURLBands = "https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp";
 
 
 
